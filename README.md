@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [https://634e519bef47231d1e5c3303--starlit-crisp-7954ae.netlify.app]/(Live app)
+[https://634e519bef47231d1e5c3303--starlit-crisp-7954ae.netlify.app]/(Live app)
 
 ## First things First (Follow below steps after you clone the project in your local) : 
 - Create an .env file at the **root level** of this project in your local.
