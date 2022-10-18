@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can see live version here : [Travel Advisor](https://634e519bef47231d1e5c3303--starlit-crisp-7954ae.netlify.app)
 
+- Note that you have to allow location permission to allow the code to access your current location and display places on maps
+
 - Note that when you are watching the live version the map might not be loading or the places on the left are not showing. This could be because the api keys are running under free version so I would highly recommend you run the project in your local as mentioned in step below to see all the functionalities together.
 
 ## First things First (Follow below steps after you clone the project in your local) : 
