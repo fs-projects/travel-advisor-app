@@ -9,6 +9,14 @@ You can see live version here : [Travel Advisor](https://634e519bef47231d1e5c330
 - Make sure to generate your GoogleMaps Api keys and enable this api from [console.cloud.google.com](console.cloud.google.com) and paste it in your .env file.
 - Signup in RapidApi website and subscribe to [https://rapidapi.com/apidojo/api/travel-advisor/](https://rapidapi.com/apidojo/api/travel-advisor/) to see the api key and paste it in your .env file
 - Signup in [https://openweathermap.org/api](https://openweathermap.org/api) and then get your api key from username -> my api key in the top right corner and paste it in your env file
+- Once you get all the 3 keys from above steps add it in your .env file like this (without angular brackets of course!)
+
+REACT_APP_RAPID_API_KEY=`<your rapid api key>`
+
+REACT_APP_OPEN_WEATHER_MAP_API_KEY=`<your open weather map api key>`
+
+REACT_APP_GOOGLE_MAPS_API_KEY=`<your google maps api key>`
+
 
 In the project directory, you can run:
 
