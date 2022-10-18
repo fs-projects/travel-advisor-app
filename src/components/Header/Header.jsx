@@ -2,7 +2,7 @@ import React from "react";
 
 import { Autocomplete } from "@react-google-maps/api";
 import AppBar from "@mui/material/AppBar";
-import ToolBar from "@mui/material/ToolBar";
+import ToolBar from "@mui/material/Toolbar";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import InputBase from "@mui/material/InputBase";
