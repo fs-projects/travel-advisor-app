@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[https://634e519bef47231d1e5c3303--starlit-crisp-7954ae.netlify.app]/(Live app)
+You can see live version here : [Travel Advisor](https://634e519bef47231d1e5c3303--starlit-crisp-7954ae.netlify.app)
+
+- Note that when you are watching the live version the map might not be loading or the places on the left are not showing. This could be because the api keys are running under free version so I would highly recommend you run the project in your local as mentioned in step below to see all the functionalities together.
 
 ## First things First (Follow below steps after you clone the project in your local) : 
 - Create an .env file at the **root level** of this project in your local.
@@ -14,5 +16,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 ### See "Issues" tab of this repo. Please see if you can help me fix those. Thank you in advance!
