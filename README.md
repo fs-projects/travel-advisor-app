@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can see live version here : [Travel Advisor](https://634e519bef47231d1e5c3303--starlit-crisp-7954ae.netlify.app)
 
-- Note that you have to allow location permission in your browser to allow the code to access your current location and display places on maps
+- Note that you have to allow location permission in your browser to allow the code to access your current location basis which places are displayed in UI.
 
-- Note that when you are watching the live version the map might not be loading or the places on the left are not showing. This could be because the api keys are running under free version so I would highly recommend you run the project in your local as mentioned in step below to see all the functionalities together.
+- Note that when you are watching the live version the map might not be loading or the places on the left are not showing. This could be because the api keys are running under free version and might have exhausted the daily free api call quota, so I would highly recommend you run the project in your local as mentioned in steps below to see all the functionalities together.
 
 ## First things First (Follow below steps after you clone the project in your local) : 
 - Create an .env file at the **root level** of this project in your local.
